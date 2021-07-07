@@ -1,0 +1,124 @@
+Pos,Player,Conf,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int,All-pro teams
+QB,Tom Brady %\BradTo00,AFC,NWE,40,17,16,16,385,581,4577,32,8,25,28,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+QB,Carson Wentz %\WentCa00,NFC,PHI,25,1,13,13,265,440,3296,33,7,64,299,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+QB,Drew Brees\BreeDr00,NFC,NOR,38,16,16,16,386,536,4334,23,8,33,12,2,0,0,0,0,0.0,0,
+QB,Derek Carr+\CarrDe02,AFC,OAK,26,3,15,15,323,515,3496,22,13,23,66,0,0,0,0,0,0.0,0,
+QB,Jared Goff+\GoffJa00,NFC,LAR,23,1,15,15,296,477,3804,28,7,28,51,1,0,0,0,0,0.0,0,
+QB,Philip Rivers%\RivePh00,AFC,LAC,36,13,16,16,360,575,4515,28,10,18,-2,0,0,0,0,0,0.0,0,
+QB,Ben Roethlisberger\RoetBe00,AFC,PIT,35,13,15,15,360,561,4251,28,14,28,47,0,0,0,0,0,0.0,0,
+QB,Alex Smith+\SmitAl03,AFC,KAN,33,12,15,15,341,505,4042,26,5,60,355,1,0,0,0,0,0.0,0,
+QB,Russell Wilson\WilsRu00,NFC,SEA,29,5,16,16,339,553,3983,34,11,95,586,3,0,0,0,0,0.0,0,
+RB,Todd Gurley\GurlTo01,NFC,LAR,23,2,15,15,0,0,0,0,0,279,1305,13,64,788,6,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+RB,Le'Veon Bell\BellLe00,AFC,PIT,25,4,15,15,0,0,0,0,0,321,1291,9,85,655,2,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm AP: 2nd Tm FW: 1st Tm SN: 1st Tm
+RB,Alvin Kamara\KamaAl00,NFC,NOR,22,Rook,16,3,0,0,0,0,0,120,728,8,81,826,5,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+RB,Kareem Hunt\HuntKa00,AFC,KAN,22,Rook,16,16,0,0,0,0,0,272,1327,8,53,455,3,0,0.0,0,PFW: 1st Tm All-Conf.
+RB,Mark Ingram\IngrMa01,NFC,NOR,28,6,16,12,0,0,0,0,0,230,1124,12,58,416,0,0,0.0,0,
+RB,LeSean McCoy\McCoLe01,AFC,BUF,29,8,16,16,0,0,0,0,0,287,1138,6,59,448,2,0,0.0,0,
+FB,James Develin%\DeveJa00,AFC,NWE,29,6,16,7,0,0,0,0,0,0,0,0,6,38,0,1,0.0,0,
+FB,Kyle Juszczyk\JuszKy00,NFC,SFO,26,4,14,10,0,0,0,0,0,7,31,0,33,315,1,2,0.0,0,
+FB,Roosevelt Nix+\NixxRo01,AFC,PIT,25,2,16,4,0,0,0,0,0,3,0,1,2,6,1,6,0.0,0,
+WR,Antonio Brown\BrowAn04,AFC,PIT,29,7,14,14,0,0,0,0,0,0,0,0,101,1533,9,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+WR,DeAndre Hopkins%\HopkDe00,AFC,HOU,25,4,15,15,0,0,0,0,0,0,0,0,96,1378,13,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm
+WR,Julio Jones %\JoneJu02,NFC,ATL,28,6,16,16,0,0,0,0,0,1,15,0,88,1444,3,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 1st Tm SN: 1st Tm
+WR,Keenan Allen\AlleKe00,AFC,LAC,25,4,16,15,0,0,0,0,0,2,9,0,102,1393,6,0,0.0,1,PFF: 2nd Tm
+WR,Adam Thielen\ThieAd00,NFC,MIN,27,4,16,16,0,0,0,0,0,1,11,0,91,1276,4,0,0.0,0,AP: 2nd Tm
+WR,Michael Thomas\ThomMi05,NFC,NOR,24,1,16,14,0,0,0,0,0,0,0,0,104,1245,5,1,0.0,0,PFF: 2nd Tm
+WR,Davante Adams+\AdamDa01,NFC,GNB,25,3,14,14,0,0,0,0,0,0,0,0,74,885,10,0,0.0,0,
+WR,Doug Baldwin +\BaldDo00,NFC,SEA,29,6,16,16,0,0,0,0,0,2,-8,0,75,991,8,0,0.0,0,
+WR,Larry Fitzgerald%\FitzLa00,NFC,ARI,34,13,16,16,1,1,21,0,0,0,0,0,109,1156,6,0,0.0,0,
+WR,A.J. Green%\GreeA.00,AFC,CIN,29,6,16,16,0,0,0,0,0,0,0,0,75,1078,8,0,0.0,0,
+WR,T.Y. Hilton+\HiltT.00,AFC,IND,28,5,16,16,0,0,0,0,0,0,0,0,57,966,4,0,0.0,0,
+WR,Jarvis Landry +\LandJa00,AFC,MIA,25,3,16,16,0,1,0,0,0,1,-7,0,112,987,9,1,0.0,0,
+TE,Rob Gronkowski %\GronRo00,AFC,NWE,28,7,14,14,0,0,0,0,0,0,0,0,69,1084,8,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm
+TE,Travis Kelce%\KelcTr00,AFC,KAN,28,4,15,15,0,1,0,0,1,2,7,0,83,1038,8,0,0.0,0,AP: 2nd Tm SN: 1st Tm
+TE,Zach Ertz%\ErtzZa00,NFC,PHI,27,4,14,13,0,0,0,0,0,0,0,0,74,824,8,0,0.0,0,PFW: 1st Tm All-Conf.
+TE,Jack Doyle+\DoylJa00,AFC,IND,27,4,15,15,0,0,0,0,0,0,0,0,80,690,4,0,0.0,0,
+TE,Jimmy Graham%\GrahJi00,NFC,SEA,31,7,16,13,0,0,0,0,0,0,0,0,57,520,10,0,0.0,0,
+TE,Kyle Rudolph +\RudoKy00,NFC,MIN,28,6,16,16,0,0,0,0,0,0,0,0,57,532,8,0,0.0,0,
+TE,Delanie Walker+\WalkHu00,AFC,TEN,33,11,16,11,0,0,0,0,0,2,-2,1,74,807,3,0,0.0,0,
+TE,Jason Witten+\WittJa00,NFC,DAL,35,14,16,16,0,0,0,0,0,0,0,0,63,560,5,0,0.0,0,
+T,Lane Johnson%\JohnLa01,NFC,PHI,27,4,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm
+T,Andrew Whitworth+\WhitAn20,NFC,LAR,36,11,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm
+T,Taylor Lewan\LewaTa00,AFC,TEN,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. SN: 1st Tm
+T,Trent Williams%\WillTr21,NFC,WAS,29,7,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,SN: 1st Tm
+T,Alejandro Villanueva\VillAl00,AFC,PIT,29,3,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf.
+T,Joe Staley +\StalJo20,NFC,SFO,33,10,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm
+T,Duane Brown+\BrowDu20,AFC,2TM,32,9,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+T,Russell Okung+\OkunRu20,AFC,LAC,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+T,Donald Penn%\PennDo20,AFC,OAK,34,10,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+T,Tyron Smith%\SmitTy00,NFC,DAL,27,6,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+OG,Brandon Scherff%\ScheBr00,NFC,WAS,26,2,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+G,David DeCastro\DeCaDa00,AFC,PIT,27,5,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+G,Zack Martin %\MartZa00,NFC,DAL,27,3,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+G,Brandon Brooks%\BrooBr00,NFC,PHI,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf.
+G,Kelechi Osemele\OsemKe00,AFC,OAK,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf.
+G,Richie Incognito\IncoRi20,AFC,BUF,34,11,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+G,T.J. Lang+\LangT.20,NFC,DET,30,8,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+G,Trai Turner+\TurnTr01,NFC,CAR,24,3,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+G,Larry Warford +\WarfLa00,NFC,NOR,26,4,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+C,Alex Mack\MackAl20,NFC,ATL,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 2nd Tm SN: 1st Tm
+C,Maurkice Pouncey\PounMa20,AFC,PIT,28,7,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf.
+C,Travis Frederick\FredTr00,NFC,DAL,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 2nd Tm
+C,Rodney Hudson\HudsRo00,AFC,OAK,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+DE,Cameron Jordan\JordCa00,NFC,NOR,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,48,13.0,1,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DE,Calais Campbell%\CampCa99,AFC,JAX,31,9,16,16,0,0,0,0,0,0,0,0,0,0,0,47,14.5,0,PFW: 1st Tm All-Conf. AP: 1st Tm AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm
+DE,Everson Griffen%\GrifEv99,NFC,MIN,30,7,15,15,0,0,0,0,0,0,0,0,0,0,0,31,13.0,0,SN: 1st Tm AP: 2nd Tm
+DE,Cameron Heyward+\HeywCa01,AFC,PIT,28,6,15,15,0,0,0,0,0,0,0,0,0,0,0,30,12.0,0,AP: 1st Tm
+DE,DeMarcus Lawrence\LawrDe00,NFC,DAL,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,35,14.5,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+DE,Joey Bosa%\BosaJo00,AFC,LAC,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,54,12.5,0,PFW: 1st Tm All-Conf.
+DE,Jadeveon Clowney%\ClowJa00,AFC,HOU,24,3,16,16,0,0,0,0,0,0,0,0,0,0,0,41,9.5,0,PFW: 1st Tm All-Conf.
+DE,Michael Bennett +\BennMi99,NFC,SEA,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,25,8.5,0,
+DE,Melvin Ingram+\IngrMe00,AFC,LAC,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,43,10.5,0,
+DE,Yannick Ngakoue+\NgakYa00,AFC,JAX,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,24,12.0,0,
+DT,Aaron Donald%\DonaAa00,NFC,LAR,26,3,14,14,0,0,0,0,0,0,0,0,0,0,0,32,11.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DT,Fletcher Cox%\CoxxFl00,NFC,PHI,27,5,14,14,0,0,0,0,0,0,0,0,0,0,0,15,5.5,0,PFW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm SN: 1st Tm
+DT,Malik Jackson\JackMa02,AFC,JAX,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,31,8.0,0,PFW: 1st Tm All-Conf.
+DT,Jurrell Casey\CaseJu00,AFC,TEN,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,41,6.0,0,
+DT,Mike Daniels+\DaniMi00,NFC,GNB,28,5,14,14,0,0,0,0,0,0,0,0,0,0,0,34,5.0,0,
+DT,Linval Joseph+\JoseLi99,NFC,MIN,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,40,3.5,0,
+DT,Gerald McCoy\McCoGe99,NFC,TAM,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,33,6.0,0,
+NT,Geno Atkins\AtkiGe99,AFC,CIN,29,7,16,15,0,0,0,0,0,0,0,0,0,0,0,29,9.0,0,PFW: 1st Tm All-Conf. PFF: 1st Tm
+OLB,Thomas Davis +\DaviTh20,NFC,CAR,34,12,15,15,0,0,0,0,0,0,0,0,0,0,0,52,2.5,0,
+OLB,Terrell Suggs\SuggTe99,AFC,BAL,35,14,16,16,0,0,0,0,0,0,0,0,0,0,0,37,11.0,0,
+LB,Bobby Wagner%\WagnBo00,NFC,SEA,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,97,1.5,2,AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+LB,Chandler Jones\JoneCh03,NFC,ARI,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,52,17.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+LB,Luke Kuechly%\KuecLu00,NFC,CAR,26,5,15,15,0,0,0,0,0,0,0,0,0,0,0,74,1.5,3,PFW: 1st Tm All-Conf. AP: 1st Tm PFF: 1st Tm SN: 1st Tm
+LB,Von Miller\MillVo00,AFC,DEN,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,51,10.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 1st Tm
+LB,Ryan Kerrigan\KerrRy00,NFC,WAS,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,34,13.0,1,PFW: 1st Tm All-Conf.
+LB,Ryan Shazier%\ShazRy00,AFC,PIT,25,3,12,12,0,0,0,0,0,0,0,0,0,0,0,68,0.0,3,PFW: 1st Tm All-Conf.
+LB,Deion Jones+\JoneDe01,NFC,ATL,23,1,16,16,0,0,0,0,0,0,0,0,0,0,0,91,1.0,3,PFF: 2nd Tm
+LB,C.J. Mosley\MoslC.00,AFC,BAL,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,96,1.0,2,AP: 2nd Tm
+LB,Telvin Smith+\SmitTe01,AFC,JAX,26,3,14,14,0,0,0,0,0,0,0,0,0,0,0,76,1.0,3,AP: 2nd Tm
+LB,Kwon Alexander+\AlexKw00,NFC,TAM,23,2,12,12,0,0,0,0,0,0,0,0,0,0,0,70,0.0,3,
+LB,Anthony Barr%\BarrAn00,NFC,MIN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,52,1.0,0,
+LB,Khalil Mack%\MackKh00,AFC,OAK,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,61,10.5,0,
+LB,Joe Schobert+\SchoJo00,AFC,CLE,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,87,3.0,1,
+CB,Jalen Ramsey\RamsJa00,AFC,JAX,23,1,16,16,0,0,0,0,0,0,0,0,0,0,0,52,0.0,4,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+CB,Xavier Rhodes\RhodXa00,NFC,MIN,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,44,0.0,2,AP: 1st Tm AP: 2nd Tm FW: 1st Tm SN: 1st Tm
+CB,Darius Slay\SlayDa00,NFC,DET,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,54,0.0,8,PFW: 1st Tm All-Conf. AP: 1st Tm
+CB,Casey Hayward\HaywCa00,AFC,LAC,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,33,0.0,4,PFF: 1st Tm AP: 2nd Tm
+CB,A.J. Bouye\BouyA.00,AFC,JAX,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,53,0.0,6,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+CB,Marshon Lattimore\LattMa01,NFC,NOR,21,Rook,13,13,0,0,0,0,0,0,0,0,0,0,0,43,0.0,5,PFW: 1st Tm All-Conf.
+CB,Patrick Peterson\PetePa00,NFC,ARI,27,6,16,16,0,0,0,0,0,0,0,0,0,0,0,30,0.0,1,
+CB,Aqib Talib\TaliAq99,AFC,DEN,31,9,15,15,0,0,0,0,0,0,0,0,0,0,0,23,0.0,1,
+SS,Harrison Smith+\SmitHa00,NFC,MIN,28,5,16,16,0,0,0,0,0,0,0,0,0,0,0,61,1.5,5,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+SS,Kevin Byard +\ByarKe01,AFC,TEN,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,62,0.0,8,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm
+SS,Micah Hyde%\HydeMi00,AFC,BUF,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,65,0.0,5,AP: 2nd Tm
+SS,Landon Collins%\CollLa00,NFC,NYG,23,2,15,15,0,0,0,0,0,0,0,0,0,0,0,78,0.0,2,
+SS,Malcolm Jenkins%\JenkMa99,NFC,PHI,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,63,1.0,2,
+SS,Reshad Jones\JoneRe99,AFC,MIA,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,94,1.5,2,
+SS,Keanu Neal+\NealKe01,NFC,ATL,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,83,0.0,1,
+FS,Earl Thomas\ThomEa99,NFC,SEA,28,7,14,14,0,0,0,0,0,0,0,0,0,0,0,56,0.0,2,PFW: 1st Tm All-Conf. AP: 2nd Tm SN: 1st Tm
+FS,Eric Weddle\WeddEr99,AFC,BAL,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,49,1.0,6,PFW: 1st Tm All-Conf.
+LS,Clark Harris\HarrCl20,AFC,CIN,33,9,16,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,
+LS,Jake McQuaide\McQuJa00,NFC,LAR,30,6,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+K,Greg Zuerlein%\ZuerGr00,NFC,LAR,30,5,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+K,Chris Boswell\BoswCh00,AFC,PIT,26,2,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+K,Graham Gano+\GanoGr44,NFC,CAR,30,8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+P,Johnny Hekker\HekkJo00,NFC,LAR,27,5,16,0,2,3,34,0,0,0,0,0,0,0,0,2,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm
+P,Brett Kern\KernBr20,AFC,TEN,31,9,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm SN: 1st Tm
+PR,Pharoh Cooper\CoopPh00,NFC,LAR,22,1,16,1,0,0,0,0,0,1,6,0,11,84,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm AP: 2nd Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+PR,Tyreek Hill\HillTy00,AFC,KAN,23,1,15,13,0,1,0,0,1,17,59,0,75,1183,7,0,0.0,0,
+ST,Budda Baker\BakeBu00,NFC,ARI,21,Rook,16,7,0,0,0,0,0,0,0,0,0,0,0,58,1.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm
+ST,Matthew Slater%\SlatMa00,AFC,NWE,32,9,9,0,0,0,0,0,0,0,0,0,0,0,0,6,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+ST,Brynden Trawick+\TrawBr00,AFC,TEN,28,4,16,0,0,0,0,0,0,0,0,0,0,0,0,9,0.0,0,

@@ -1,0 +1,131 @@
+Pos,Player,Conf,Tm,Age,Yrs,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int,All-pro teams
+QB,Cam Newton%\NewtCa00,Rice,CAR,26,4,16,16,296,495,3837,35,10,132,636,10,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+QB,Carson Palmer%\PalmCa00,Rice,ARI,36,11,16,16,342,537,4671,35,11,25,24,1,0,0,0,0,0.0,0,PFF: 1st Tm AP: 2nd Tm
+QB,Tom Brady %\BradTo00,Rice,NWE,38,15,16,16,402,624,4770,36,7,34,53,3,1,36,0,0,0.0,0,PFW: 1st Tm All-Conf. PFF: 2nd Tm
+QB,Teddy Bridgewater+\BridTe00,Irvin,MIN,23,1,16,16,292,447,3231,14,9,44,192,3,0,0,0,0,0.0,0,
+QB,Derek Carr\CarrDe02,Rice,OAK,24,1,16,16,350,573,3987,32,13,33,138,0,0,0,0,0,0.0,0,
+QB,Eli Manning +\MannEl00,Rice,NYG,34,11,16,16,387,618,4432,35,14,20,61,0,0,0,0,0,0.0,0,
+QB,Aaron Rodgers %\RodgAa00,Rice,GNB,32,10,16,16,347,572,3821,31,8,58,344,1,0,0,0,0,0.0,0,
+QB,Ben Roethlisberger%\RoetBe00,Rice,PIT,33,11,12,11,319,469,3938,21,16,15,29,0,0,-3,0,0,0.0,0,
+QB,Tyrod Taylor +\TaylTy00,Rice,BUF,26,4,14,14,242,380,3035,20,6,104,568,4,1,4,0,0,0.0,0,
+QB,Russell Wilson\WilsRu00,Irvin,SEA,27,3,16,16,329,483,4024,34,8,103,553,1,0,0,0,0,0.0,0,
+QB,Jameis Winston+\WinsJa00,Irvin,TAM,21,Rook,16,16,312,535,4042,22,15,54,213,6,0,0,0,0,0.0,0,
+RB,Doug Martin\MartDo00,Rice,TAM,26,3,16,16,0,0,0,0,0,288,1402,6,33,271,1,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+RB,Adrian Peterson\PeteAd01,Rice,MIN,30,8,16,16,0,0,0,0,0,327,1485,11,30,222,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+RB,Chris Ivory+\IvorCh00,Rice,NYJ,27,5,15,14,0,0,0,0,0,247,1070,7,30,217,1,0,0.0,0,PFW: 1st Tm All-Conf.
+RB,Latavius Murray+\MurrLa00,Irvin,OAK,25,2,16,16,0,0,0,0,0,266,1066,6,41,232,0,0,0.0,0,PFW: 1st Tm All-Conf.
+RB,Devonta Freeman\FreeDe00,Irvin,ATL,23,1,15,13,0,0,0,0,0,265,1056,11,73,578,3,0,0.0,0,AP: 2nd Tm
+RB,Todd Gurley\GurlTo01,Irvin,STL,21,Rook,13,12,0,0,0,0,0,229,1106,10,21,188,0,0,0.0,0,AP: 2nd Tm
+RB,Jonathan Stewart%\StewJo00,Rice,CAR,28,7,13,13,0,0,0,0,0,242,989,6,16,99,1,0,0.0,0,PFF: 2nd Tm
+RB,LeSean McCoy%\McCoLe01,Rice,BUF,27,6,12,12,0,0,0,0,0,203,895,3,32,292,2,0,0.0,0,
+FB,Patrick DiMarco+\DiMaPa00,Irvin,ATL,26,3,16,8,0,0,0,0,0,1,0,0,13,110,2,4,0.0,0,PFF: 1st Tm AP: 2nd Tm
+FB,Mike Tolbert%\TolbMi00,Rice,CAR,30,7,16,3,0,0,0,0,0,62,256,1,18,154,3,1,0.0,0,AP: 1st Tm
+FB,John Kuhn+\KuhnJo00,Rice,GNB,33,9,16,6,0,0,0,0,0,9,28,2,6,56,0,2,0.0,0,
+WR,Antonio Brown %\BrowAn04,Rice,PIT,27,5,16,16,0,0,0,0,0,3,28,0,136,1834,10,1,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+WR,Julio Jones\JoneJu02,Irvin,ATL,26,4,16,16,0,0,0,0,0,0,0,0,136,1871,8,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+WR,Jarvis Landry +\LandJa00,Rice,MIA,23,1,16,14,1,1,9,0,0,18,113,1,110,1157,4,0,0.0,0,PFW: 1st Tm All-Conf. PFF: 1st Tm
+WR,Larry Fitzgerald%\FitzLa00,Rice,ARI,32,11,16,16,0,0,0,0,0,0,0,0,109,1215,9,0,0.0,0,PFF: 1st Tm
+WR,DeAndre Hopkins\HopkDe00,Irvin,HOU,23,2,16,16,0,0,0,0,0,0,0,0,111,1521,11,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+WR,Odell Beckham Jr.\BeckOd00,Rice,NYG,23,1,15,15,0,0,0,0,0,1,3,0,96,1450,13,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+WR,Matthew Slater%\SlatMa00,Rice,NWE,30,7,16,0,0,0,0,0,0,0,0,0,0,0,0,14,0.0,0,PFW: 1st Tm All-Conf.
+WR,A.J. Green\GreeA.00,Irvin,CIN,27,4,16,16,0,0,0,0,0,0,0,0,86,1297,10,0,0.0,0,PFF: 2nd Tm
+WR,Brandon Marshall%\MarsBr00,Rice,NYJ,31,9,16,16,0,0,0,0,0,0,0,0,109,1502,14,0,0.0,0,AP: 2nd Tm
+WR,Amari Cooper+\CoopAm00,Rice,OAK,21,Rook,16,15,0,0,0,0,0,3,-3,0,72,1070,6,0,0.0,0,
+WR,T.Y. Hilton+\HiltT.00,Rice,IND,26,3,16,15,0,0,0,0,0,0,0,0,69,1124,5,0,0.0,0,
+WR,Calvin Johnson %\JohnCa00,Rice,DET,30,8,16,16,0,0,0,0,0,0,0,0,88,1214,9,0,0.0,0,
+WR,Allen Robinson+\RobiAl02,Irvin,JAX,22,1,16,16,0,0,0,0,0,0,0,0,80,1400,14,0,0.0,0,
+TE,Rob Gronkowski %\GronRo00,Rice,NWE,26,5,15,15,0,0,0,0,0,0,0,0,72,1176,11,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+TE,Greg Olsen%\OlseGr00,Rice,CAR,30,8,16,16,0,0,0,0,0,0,0,0,77,1104,7,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+TE,Delanie Walker+\WalkHu00,Irvin,TEN,31,9,15,10,0,0,0,0,0,1,36,0,94,1088,6,0,0.0,0,PFF: 2nd Tm
+TE,Gary Barnidge\BarnGa01,Rice,CLE,30,7,16,13,0,0,0,0,0,0,0,0,79,1043,9,1,0.0,0,
+TE,Tyler Eifert\EifeTy00,Irvin,CIN,25,2,13,12,0,0,0,0,0,0,0,0,52,615,13,0,0.0,0,
+TE,Travis Kelce\KelcTr00,Rice,KAN,26,2,16,16,0,0,0,0,0,0,0,0,72,875,5,0,0.0,0,
+LT,Joe Thomas\ThomJo28,Rice,CLE,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+LT,Tyron Smith\SmitTy00,Irvin,DAL,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+T,Trent Williams%\WillTr21,Rice,WAS,27,5,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+T,Branden Albert +\AlbeBr20,Irvin,MIA,31,7,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+T,Kyle Long +\LongKy00,Rice,CHI,27,2,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+T,Jason Peters %\PeteJa21,Rice,PHI,33,11,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+LG,Zack Martin\MartZa00,Irvin,DAL,25,1,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+LG,Josh Sitton\SittJo20,Rice,GNB,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+G,David DeCastro\DeCaDa00,Irvin,PIT,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm
+G,Richie Incognito\IncoRi20,Rice,BUF,32,9,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFF: 1st Tm
+G,Mike Iupati%\IupaMi20,Rice,ARI,28,5,13,13,0,0,0,0,0,0,0,0,1,10,0,0,0.0,0,AP: 2nd Tm
+G,Trai Turner%\TurnTr01,Rice,CAR,22,1,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+C,Ryan Kalil%\KaliRy20,Rice,CAR,30,8,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+C,Travis Frederick\FredTr00,Irvin,DAL,24,2,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,AP: 2nd Tm PFF: 1st Tm
+C,Alex Mack\MackAl20,Irvin,CLE,30,6,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf.
+C,Nick Mangold+\MangNi20,Rice,NYJ,31,9,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+C,Mike Pouncey%\PounMi00,Rice,MIA,26,4,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+C,Eric Wood+\WoodEr20,Rice,BUF,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+RG,Marshal Yanda\YandMa20,Irvin,BAL,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+RG,Logan Mankins\MankLo20,Rice,TAM,33,10,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+RT,Andrew Whitworth\WhitAn20,Irvin,CIN,34,9,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm
+RT,Joe Staley\StalJo20,Rice,SFO,31,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+DE,Khalil Mack\MackKh00,Rice,OAK,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,57,15.0,0,PFW: 1st Tm All-Conf. PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DE,J.J. Watt%\WattJ.00,Rice,HOU,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,57,17.5,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DE,Ezekiel Ansah\AnsaEz00,Irvin,DET,26,2,16,16,0,0,0,0,0,0,0,0,0,0,0,39,14.5,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+DE,Cameron Jordan+\JordCa00,Rice,NOR,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,32,10.0,0,PFF: 2nd Tm
+DE,Michael Bennett\BennMi99,Irvin,SEA,30,6,16,16,0,0,0,0,0,0,0,0,0,0,0,33,10.0,0,
+DE,Carlos Dunlap+\DunlCa99,Irvin,CIN,26,5,16,16,0,0,0,0,0,0,0,0,0,0,0,37,13.5,0,
+DE,Everson Griffen+\GrifEv99,Rice,MIN,28,5,15,15,0,0,0,0,0,0,0,0,0,0,0,34,10.5,0,
+DE,Chandler Jones%\JoneCh03,Rice,NWE,25,3,15,15,0,0,0,0,0,0,0,0,0,0,0,31,12.5,1,
+DT,Aaron Donald\DonaAa00,Rice,STL,24,1,16,16,0,0,0,0,0,0,0,0,0,0,0,44,11.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DT,Geno Atkins\AtkiGe99,Irvin,CIN,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,31,11.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+DT,Kawann Short%\ShorKa00,Rice,CAR,26,2,16,16,0,0,0,0,0,0,0,0,0,0,0,36,11.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+DT,Fletcher Cox\CoxxFl00,Rice,PHI,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,50,9.5,0,AP: 2nd Tm
+DT,Muhammad Wilkerson%\WilkMu00,Rice,NYJ,26,4,16,15,0,0,0,0,0,0,0,0,0,0,0,39,12.0,0,AP: 2nd Tm
+DT,Calais Campbell\CampCa99,Irvin,ARI,29,7,16,16,0,0,0,0,0,0,0,0,0,0,0,46,5.0,0,
+DT,Jurrell Casey+\CaseJu00,Irvin,TEN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,34,7.0,0,
+DT,Gerald McCoy\McCoGe99,Rice,TAM,27,5,15,15,0,0,0,0,0,0,0,0,0,0,0,26,8.5,0,
+OLB,Thomas Davis %\DaviTh20,Rice,CAR,32,10,16,16,0,0,0,0,0,0,0,0,0,0,0,75,5.5,4,PFW: 1st Tm All-Conf. AP: 1st Tm
+OLB,Anthony Barr+\BarrAn00,Irvin,MIN,23,1,14,14,0,0,0,0,0,0,0,0,0,0,0,54,3.5,1,PFF: 1st Tm
+OLB,Tamba Hali\HaliTa20,Rice,KAN,32,9,15,14,0,0,0,0,0,0,0,0,0,0,0,39,6.5,0,
+OLB,Sean Lee +\LeexSe99,Irvin,DAL,29,5,14,14,0,0,0,0,0,0,0,0,0,0,0,76,2.5,1,
+OLB,Julius Peppers\PeppJu99,Rice,GNB,35,13,16,16,0,0,0,0,0,0,0,0,0,0,0,25,10.5,0,
+OLB,DeMarcus Ware%\WareDe99,Rice,DEN,33,10,11,10,0,0,0,0,0,0,0,0,0,0,0,17,7.5,0,
+MLB,Derrick Johnson +\JohnDe25,Irvin,KAN,33,10,16,16,0,0,0,0,0,0,0,0,0,0,0,95,4.0,2,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+MLB,Clay Matthews\MattCl99,Rice,GNB,29,6,16,16,0,0,0,0,0,0,0,0,0,0,0,49,6.5,1,
+LB,Luke Kuechly%\KuecLu00,Rice,CAR,24,3,13,13,0,0,0,0,0,0,0,0,0,0,0,76,1.0,4,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+LB,Von Miller%\MillVo00,Rice,DEN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,30,11.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+LB,NaVorro Bowman\BowmNa99,Irvin,SFO,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,116,2.5,0,AP: 1st Tm
+LB,Justin Houston%\HousJu00,Rice,KAN,26,4,11,11,0,0,0,0,0,0,0,0,0,0,0,25,7.5,2,SN: 1st Tm
+LB,Lavonte David+\DaviLa00,Irvin,TAM,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,85,3.0,3,PFW: 1st Tm All-Conf.
+LB,Jamie Collins%\CollJa00,Rice,NWE,26,2,12,12,0,0,0,0,0,0,0,0,0,0,0,51,5.5,1,AP: 2nd Tm
+LB,Bobby Wagner\WagnBo00,Rice,SEA,25,3,15,15,0,0,0,0,0,0,0,0,0,0,0,67,0.5,0,AP: 2nd Tm
+LB,Elvis Dumervil\DumeEl20,Rice,BAL,31,9,16,16,0,0,0,0,0,0,0,0,0,0,0,29,6.0,0,
+CB,Richard Sherman\SherRi00,Irvin,SEA,27,4,16,16,0,0,0,0,0,0,0,0,0,0,0,33,0.0,2,AP: 2nd Tm PFF: 1st Tm
+CB,Marcus Peters\PeteMa00,Rice,KAN,22,Rook,16,16,0,0,0,0,0,0,0,0,0,0,0,53,0.0,8,PFW: 1st Tm All-Conf. AP: 2nd Tm
+CB,Vontae Davis\DaviVo99,Rice,IND,27,6,16,16,0,0,0,0,0,0,0,0,0,0,0,38,0.0,4,
+CB,Brent Grimes+\GrimBr20,Rice,MIA,32,8,15,15,0,0,0,0,0,0,0,0,0,0,0,42,0.0,4,
+CB,Adam Jones+\JonePa20,Irvin,CIN,32,10,14,14,0,0,0,0,0,0,0,0,0,0,0,53,1.0,3,
+CB,Darrelle Revis%\ReviDa99,Rice,NYJ,30,8,14,14,0,0,0,0,0,0,0,0,0,0,0,30,0.0,5,
+CB,Dominique Rodgers-Cromartie+\RodgDo99,Irvin,NYG,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,52,0.0,3,
+CB,Aqib Talib%\TaliAq99,Rice,DEN,29,7,15,15,0,0,0,0,0,0,0,0,0,0,0,39,0.0,3,
+CB,Desmond Trufant\TrufDe00,Irvin,ATL,25,2,16,16,0,0,0,0,0,0,0,0,0,0,0,35,1.0,1,
+CB,Jason Verrett+\VerrJa00,Rice,SDG,24,1,14,13,0,0,0,0,0,0,0,0,0,0,0,42,0.0,3,
+SS,Eric Berry\BerrEr99,Rice,KAN,27,5,16,15,0,0,0,0,0,0,0,0,0,0,0,55,0.0,2,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm
+SS,Kam Chancellor %\ChanKa99,Rice,SEA,27,5,11,11,0,0,0,0,0,0,0,0,0,0,0,44,0.0,2,
+SS,Reshad Jones+\JoneRe99,Irvin,MIA,27,5,16,16,0,0,0,0,0,0,0,0,0,0,0,106,2.0,5,
+FS,Earl Thomas%\ThomEa99,Rice,SEA,26,5,16,16,0,0,0,0,0,0,0,0,0,0,0,45,0.0,5,PFW: 1st Tm All-Conf. PFF: 2nd Tm SN: 1st Tm
+FS,Malcolm Jenkins+\JenkMa99,Irvin,PHI,28,6,16,16,0,0,0,0,0,0,0,0,0,0,0,90,0.0,2,PFF: 1st Tm
+FS,Reggie Nelson%\NelsRe99,Rice,CIN,32,8,16,16,0,0,0,0,0,0,0,0,0,0,0,52,0.0,8,PFW: 1st Tm All-Conf. AP: 2nd Tm
+FS,Charles Woodson\WoodCh00,Rice,OAK,39,17,16,16,0,0,0,0,0,1,-3,0,0,0,0,59,0.0,5,AP: 2nd Tm
+LS,Morgan Cox\CoxxMo00,Rice,BAL,29,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+LS,Jon Weeks\WeekJo00,Irvin,HOU,29,5,16,0,0,0,0,0,0,0,0,0,0,0,0,6,0.0,0,
+S,Harrison Smith+\SmitHa00,Irvin,MIN,26,3,13,13,0,0,0,0,0,0,0,0,0,0,0,49,1.5,2,PFF: 1st Tm
+S,Mike Adams+\AdamMi21,Rice,IND,34,11,13,13,0,0,0,0,0,0,0,0,0,0,0,52,1.0,5,
+DB,Tyrann Mathieu%\MathTy00,Rice,ARI,23,2,14,14,0,0,0,0,0,0,0,0,0,0,0,80,1.0,5,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DB,Patrick Peterson%\PetePa00,Rice,ARI,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,35,0.0,2,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DB,Josh Norman%\NormJo01,Rice,CAR,28,3,16,16,0,0,0,0,0,0,0,0,0,0,0,48,0.0,4,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+DB,Chris Harris Jr.%\HarrCh01,Rice,DEN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,49,0.0,2,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+DB,Malcolm Butler%\ButlMa01,Rice,NWE,25,1,16,16,0,0,0,0,0,0,0,0,0,0,0,56,0.0,2,
+K,Stephen Gostkowski%\GostSt20,Rice,NWE,31,9,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+K,Dan Bailey\BailDa00,Irvin,DAL,27,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm PFF: 2nd Tm
+K,Josh Brown +\brownjos01,Rice,NYG,36,12,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,
+P,Johnny Hekker\HekkJo00,Rice,STL,25,3,16,0,1,4,20,0,0,0,0,0,0,0,0,2,0.0,0,PFW: 1st Tm All-Conf. AP: 1st Tm FW: 1st Tm SN: 1st Tm
+P,Sam Koch\KochSa20,Irvin,BAL,33,9,16,0,1,1,-3,0,0,1,7,0,0,0,0,1,0.0,0,PFW: 1st Tm All-Conf. AP: 2nd Tm
+RB/RS,Darren Sproles\SproDa00,Irvin,PHI,32,10,16,4,0,0,0,0,0,83,317,3,55,388,1,0,0.0,0,PFW: 1st Tm All-Conf. FW: 1st Tm SN: 1st Tm
+CB/ST,Justin Bethel\BethJu00,Irvin,ARI,25,3,16,5,0,0,0,0,0,0,0,0,0,0,0,44,0.0,2,PFW: 1st Tm All-Conf. FW: 1st Tm PFF: 2nd Tm
+WR/RS,Tyler Lockett\LockTy00,Rice,SEA,23,Rook,16,8,0,0,0,0,0,5,20,0,51,664,6,1,0.0,0,AP: 1st Tm PFF: 2nd Tm
+HB/ST,Cedric Peerman+\PeerCe00,Rice,CIN,29,6,16,0,0,0,0,0,0,0,0,0,0,0,0,15,0.0,0,
